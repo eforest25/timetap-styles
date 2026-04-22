@@ -1,3 +1,7 @@
 mat-checkbox {
   display: none !important;
 }
+
+.mat-checkbox-layout {
+  display: none !important;
+}

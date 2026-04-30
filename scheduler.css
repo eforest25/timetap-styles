@@ -1,6 +1,6 @@
 /* Final Confirmation Checkboxes  */
-#mat-checkbox-1-input,
-#mat-checkbox-2-input {
+#mat-checkbox-1,
+#mat-checkbox-2 {
   display: none !important;
 }
 
@@ -10,7 +10,7 @@
 }
 
 #nextBtn,
-#svnBtn {
+#saveBtn {
   background-color: #2a4b7b !important;
   background: #2a4b7b !important;
   border: 1px solid #1d3455 !important;
@@ -22,13 +22,13 @@
 }
 
 #nextBtn:hover,
-#svnBtn:hover {
+#saveBtn:hover {
   background-color: #1d3455 !important;
   background: #1d3455 !important;
 }
 
 #nextBtn .mat-button-wrapper,
-#svnBtn .mat-button-wrapper {
+#saveBtn .mat-button-wrapper {
   color: #ffffff !important;
 }
 

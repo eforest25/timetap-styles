@@ -5,3 +5,7 @@ mat-checkbox {
 .mat-checkbox-layout {
   display: none !important;
 }
+
+#toggleSideNavBtn {
+  display: none !important;
+}

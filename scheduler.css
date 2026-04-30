@@ -9,7 +9,6 @@
   display: none !important;
 }
 
-/* Primary - Next / Save buttons */
 #nextBtn,
 #saveBtn {
   background-color: #2a4b7b !important;
@@ -18,7 +17,7 @@
   color: #ffffff !important;
   border-radius: 3px !important;
   font-size: 0.875rem !important;
-  padding: 0.25rem 0.75rem !important;
+  padding: 0.8rem 1rem !important;
   line-height: 1.5 !important;
   height: auto !important;
   min-height: unset !important;
@@ -45,7 +44,7 @@
   color: #ffffff !important;
   border-radius: 3px !important;
   font-size: 0.875rem !important;
-  padding: 0.25rem 0.75rem !important;
+  padding: 0.8rem 1rem !important;
   line-height: 1.5 !important;
   height: auto !important;
   min-height: unset !important;

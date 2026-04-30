@@ -1,29 +1,52 @@
-/* mat-checkbox {
+/* Final Confirmation Checkboxes  */
+input[aria-label="Allow EMAIL Messages"],
+input[aria-label="Allow SMS Messages"] {
   display: none !important;
 }
 
-.mat-checkbox-layout {
-  display: none !important;
-} */
-
+/* Hide toggle nav */
 #toggleSideNavBtn {
   display: none !important;
 }
 
+/* Primary - Next button */
 #nextBtn {
   background-color: #2a4b7b !important;
+  background: #2a4b7b !important;
   border: 1px solid #1d3455 !important;
-  color: #fff !important;
-  float: right;
-  border-radius: 4px;
-  padding: 6px 16px;
-  cursor: pointer;
+  color: #ffffff !important;
+  border-radius: 3px !important;
+  font-size: 1rem !important;
+  padding: 0.8rem 1rem !important;
+  cursor: pointer !important;
 }
 
 #nextBtn:hover {
   background-color: #1d3455 !important;
+  background: #1d3455 !important;
 }
 
-#toggleSideNavBtn {
-  display: none !important;
+#nextBtn .mat-button-wrapper {
+  color: #ffffff !important;
+}
+
+/* Secondary - Back button */
+#backBtn {
+  background-color: #4097db !important;
+  background: #4097db !important;
+  border: 1px solid #2682ca !important;
+  color: #ffffff !important;
+  border-radius: 3px !important;
+  font-size: 1rem !important;
+  padding: 0.8rem 1rem !important;
+  cursor: pointer !important;
+}
+
+#backBtn:hover {
+  background-color: #2682ca !important;
+  background: #2682ca !important;
+}
+
+#backBtn .mat-button-wrapper {
+  color: #ffffff !important;
 }

@@ -1,9 +1,27 @@
-mat-checkbox {
+/* mat-checkbox {
   display: none !important;
 }
 
 .mat-checkbox-layout {
   display: none !important;
+} */
+
+#toggleSideNavBtn {
+  display: none !important;
+}
+
+#nextBtn {
+  background-color: #2a4b7b !important;
+  border: 1px solid #1d3455 !important;
+  color: #fff !important;
+  float: right;
+  border-radius: 4px;
+  padding: 6px 16px;
+  cursor: pointer;
+}
+
+#nextBtn:hover {
+  background-color: #1d3455 !important;
 }
 
 #toggleSideNavBtn {

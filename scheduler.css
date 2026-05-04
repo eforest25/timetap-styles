@@ -1,6 +1,6 @@
 /* Final Confirmation Checkboxes  */
-#mat-checkbox-1,
-#mat-checkbox-2 {
+mat-checkbox[formcontrolname="smsOptin"],
+mat-checkbox[formcontrolname="emailOptin"] {
   display: none !important;
 }
 

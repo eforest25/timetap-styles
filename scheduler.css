@@ -9,6 +9,11 @@ mat-checkbox[formcontrolname="emailOptin"] {
   display: none !important;
 }
 
+/* Hide address on Location panel */
+.mat-list-text p[mat-line] {
+  display: none !important;
+}
+
 /* Primary - Next / Save buttons */
 #nextBtn,
 #saveBtn {
